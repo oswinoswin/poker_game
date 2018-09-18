@@ -1,0 +1,5 @@
+python poker.py AAAQQ QQAAA
+python poker.py 53QQ2 Q53Q2
+python poker.py 53888 88385
+python poker.py QQAAA AAAQQ
+python poker.py Q53Q2 53QQ2
